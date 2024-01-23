@@ -10,8 +10,8 @@ Avaliação referente à seção de JavaScript: DOM, Eventos e Web Storage.
 
 ## Habilidades Utilizadas
 
-- Manipular o DOM.
+- Manipular o DOM;
 
-- Manipular o Javascript.
+- Manipular o Javascript;
 
 - Manipular o CSS.
